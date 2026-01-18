@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 4bf5834aec04fb112ebd5ae8e51e8a6795a1640a Stevan Paylor <92827329+stevepaylor@users.noreply.github.com> 1768584589 -0800	clone: from https://github.com/stevepaylor/git-essential-training-5988161.git
+4bf5834aec04fb112ebd5ae8e51e8a6795a1640a a33dc6a5f1cee1e5cdefce545ba653b29d4b91d1 Stevan Paylor <92827329+stevepaylor@users.noreply.github.com> 1768591291 -0800	commit: adds Example.md to demonstrate the git process
+a33dc6a5f1cee1e5cdefce545ba653b29d4b91d1 7a9956653f697726d8f22cbcc743275ef92a0124 Stevan Paylor <92827329+stevepaylor@users.noreply.github.com> 1768592256 -0800	pull: Fast-forward
+7a9956653f697726d8f22cbcc743275ef92a0124 216654e60ce3c7c5764a6e85f153bc9db3bf4b6f Stevan Paylor <92827329+stevepaylor@users.noreply.github.com> 1768675209 -0800	commit: adding gitStatusDemo.md to demonstrate git status
+216654e60ce3c7c5764a6e85f153bc9db3bf4b6f 74244ddccc34a884302f82c1ec172dce2bfda0e2 Steve <steve@lpaylor.com> 1768679263 -0800	commit: Adds and extra line to show how git tracks changes
+74244ddccc34a884302f82c1ec172dce2bfda0e2 0aacdbeecda62375e792bf35cfb15b596025f473 Steve <steve@lpaylor.com> 1768680963 -0800	commit: adds extra lines to demostrate git diff
+0aacdbeecda62375e792bf35cfb15b596025f473 b9be73dacee071144f9955d1266b16a52034b7ce Steve <steve@lpaylor.com> 1768682368 -0800	commit: something
+b9be73dacee071144f9955d1266b16a52034b7ce 65689362584cd5998f161b45e04a3225ef927e73 Steve <steve@lpaylor.com> 1768682710 -0800	commit: Removed Example02.md
+65689362584cd5998f161b45e04a3225ef927e73 82fa0aa7747f8a6d5de10189dd55cb595e51d3bc Steve <steve@lpaylor.com> 1768683207 -0800	commit: renamed Example.md to NewName.md
+82fa0aa7747f8a6d5de10189dd55cb595e51d3bc f68a9c9f2a07a52c9cc0ded9651dfc416b477358 Steve <steve@lpaylor.com> 1768684039 -0800	commit: moved newName.md to First_Folder
+f68a9c9f2a07a52c9cc0ded9651dfc416b477358 37111ef16018fe840aa32431929b375b0fe7d055 Steve <steve@lpaylor.com> 1768684257 -0800	commit: added SecondFolder
+37111ef16018fe840aa32431929b375b0fe7d055 a8dd587a23585b9063a4f7722121dea571c299c9 Steve <steve@lpaylor.com> 1768690853 -0800	commit: first commit for newmarkdownfile.md
+a8dd587a23585b9063a4f7722121dea571c299c9 ca44b467d7a5360d63b18cf543909f3c5747248e Steve <steve@lpaylor.com> 1768691158 -0800	revert: Revert "moved newName.md to First_Folder"
+ca44b467d7a5360d63b18cf543909f3c5747248e e8d1d27ee4e83055270eca0218d39ef1d08761d5 Steve <steve@lpaylor.com> 1768753986 -0800	commit: added log files and SecondFolder to .gitignore
+e8d1d27ee4e83055270eca0218d39ef1d08761d5 54c26104db37218168541ee1658b3e0209970085 Steve <steve@lpaylor.com> 1768754796 -0800	commit: commit modified vscode/settings.json
